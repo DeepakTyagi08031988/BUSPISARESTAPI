@@ -1,0 +1,6 @@
+@BUSPISARESTAPI_HostAddress = http://localhost:5208
+
+GET {{BUSPISARESTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
